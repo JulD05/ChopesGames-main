@@ -1,0 +1,15 @@
+ERROR - 2023-03-28 07:08:37 --> Error connecting to the database: Accès refusé pour l'utilisateur: '****'@'@localhost' (mot de passe: OUI)
+CRITICAL - 2023-03-28 07:08:37 --> Unable to connect to the database.
+Main connection [MySQLi]: Accès refusé pour l'utilisateur: '****'@'@localhost' (mot de passe: OUI)
+#0 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `NOMIMAG...', Array, false)
+#2 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\app\Models\ModeleProduit.php(51): CodeIgniter\BaseModel->first()
+#5 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\app\Controllers\Visiteur.php(421): App\Models\ModeleProduit->retournerSlug(2)
+#6 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\CodeIgniter.php(824): App\Controllers\Visiteur->prodById(2)
+#7 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#8 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Jules\iCloudDrive\BTS Sio\Cours Web\ChopesGamesGRETA\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Jules\\...')
+#11 {main}

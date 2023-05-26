@@ -1,0 +1,40 @@
+ERROR - 2022-12-15 02:44:55 --> La table 'ppe_chopesgames.produit' n'existe pas
+CRITICAL - 2022-12-15 02:44:55 --> La table 'ppe_chopesgames.produit' n'existe pas
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Models\ModeleProduit.php(27): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(20): App\Models\ModeleProduit->retourner_vitrine()
+#8 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->accueil()
+#9 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#10 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#13 {main}
+CRITICAL - 2022-12-15 04:35:52 --> min_length=>100 is not a valid rule.
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Validation\Validation.php(285): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('min_length=>100')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('txtMdp', 'txtMdp', 'azertyuio', Array, Array)
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(261): CodeIgniter\Controller->validate(Array, Array)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->s_enregistrer()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#9 {main}
+CRITICAL - 2022-12-15 06:37:34 --> txtEmail is not a valid Validation template.
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Validation\Validation.php(462): CodeIgniter\Validation\Exceptions\ValidationException::forInvalidTemplate('txtEmail')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Views\visiteur\se_connecter.php(9): CodeIgniter\Validation\Validation->listErrors('txtEmail')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(214): include('C:\\Users\\BTS SI...')
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('visiteur/se_con...', Array, true)
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(334): view('visiteur/se_con...', Array)
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->se_connecter()
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#8 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#11 {main}

@@ -1,0 +1,275 @@
+CRITICAL - 2023-05-24 17:11:57 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 17:12:36 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 17:13:58 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 17:14:54 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 17:14:55 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 17:15:33 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 17:15:45 --> Undefined variable $session
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(538): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 538)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 18:03:59 --> Undefined variable $categories
+#0 C:\wamp64\www\ChopesGames-main\app\Views\templates\header.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 30)
+#1 C:\wamp64\www\ChopesGames-main\system\View\View.php(214): include('C:\\wamp64\\www\\C...')
+#2 C:\wamp64\www\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 C:\wamp64\www\ChopesGames-main\app\Controllers\Client.php(542): view('templates/heade...')
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\client->supprimer_compte()
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\client))
+#7 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#10 {main}
+CRITICAL - 2023-05-24 18:41:10 --> Undefined variable $donneesAInserer
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 115)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 18:41:21 --> Undefined variable $donneesAInserer
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 115)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 18:42:50 --> Undefined variable $pDonneesAInserer
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 115)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 18:43:49 --> Undefined variable $pDonneesAInserer
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 115)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 18:44:44 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 18:45:19 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 18:50:50 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 18:53:45 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 18:55:47 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(115): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 19:00:39 --> Undefined variable $modelCat
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 125)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_marque()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 19:01:27 --> Undefined variable $categories
+#0 C:\wamp64\www\ChopesGames-main\app\Views\templates\header.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 30)
+#1 C:\wamp64\www\ChopesGames-main\system\View\View.php(214): include('C:\\wamp64\\www\\C...')
+#2 C:\wamp64\www\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(137): view('templates/heade...', Array)
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_marque()
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#7 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#10 {main}
+CRITICAL - 2023-05-24 19:01:37 --> Undefined variable $categories
+#0 C:\wamp64\www\ChopesGames-main\app\Views\templates\header.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 30)
+#1 C:\wamp64\www\ChopesGames-main\system\View\View.php(214): include('C:\\wamp64\\www\\C...')
+#2 C:\wamp64\www\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(137): view('templates/heade...', Array)
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_marque()
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#7 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#10 {main}
+CRITICAL - 2023-05-24 19:06:19 --> Undefined variable $categories
+#0 C:\wamp64\www\ChopesGames-main\app\Views\templates\header.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 30)
+#1 C:\wamp64\www\ChopesGames-main\system\View\View.php(214): include('C:\\wamp64\\www\\C...')
+#2 C:\wamp64\www\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(134): view('templates/heade...', Array)
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_marque()
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#7 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#10 {main}
+CRITICAL - 2023-05-24 19:07:17 --> Undefined variable $modelMarq
+#0 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\wamp64\\www\\C...', 143)
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_marque()
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#3 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-05-24 19:07:26 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(116): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 19:22:06 --> Class "App\Controllers\ModeleAdministrateur" not found
+#0 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_un_administrateur()
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#5 {main}
+CRITICAL - 2023-05-24 19:22:40 --> Class "App\Controllers\ModeleAdministrateur" not found
+#0 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_un_administrateur()
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#5 {main}
+CRITICAL - 2023-05-24 19:23:22 --> Class "App\Controllers\ModeleAdministrateur" not found
+#0 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_un_administrateur()
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#5 {main}
+CRITICAL - 2023-05-24 19:25:37 --> Class "App\Controllers\ModeleAdministrateur" not found
+#0 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_un_administrateur()
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#5 {main}
+CRITICAL - 2023-05-24 19:26:10 --> Class "App\Controllers\ModeleAdministrateur" not found
+#0 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_un_administrateur()
+#1 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#2 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#5 {main}
+CRITICAL - 2023-05-24 19:41:11 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(118): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}
+CRITICAL - 2023-05-24 19:43:38 --> Allowed fields must be specified for model: App\Models\ModeleCategorie
+#0 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Mode...')
+#1 C:\wamp64\www\ChopesGames-main\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\wamp64\www\ChopesGames-main\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#3 C:\wamp64\www\ChopesGames-main\app\Controllers\AdministrateurSuper.php(119): CodeIgniter\Model->insert(Array)
+#4 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\AdministrateurSuper->ajouter_une_categorie()
+#5 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdministrateurSuper))
+#6 C:\wamp64\www\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#9 {main}

@@ -1,0 +1,172 @@
+CRITICAL - 2023-01-05 05:15:06 --> Unclosed '{' on line 364
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Visiteur/accuei...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Visiteur/accuei...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 05:15:16 --> Unclosed '{' on line 364
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 05:32:32 --> syntax error, unexpected token "]"
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 06:52:15 --> Undefined variable $rules
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 384)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 06:52:17 --> Undefined variable $rules
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 384)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 06:52:29 --> Too few arguments to function CodeIgniter\Controller::validate(), 0 passed in C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php on line 384 and at least 1 expected
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(384): CodeIgniter\Controller->validate()
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 06:53:19 --> Undefined variable $rules
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 384)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 06:53:32 --> Undefined variable $messages
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 384)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:04:30 --> syntax error, unexpected token "else", expecting "function" or "const"
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:12:09 --> syntax error, unexpected token "else"
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:14:53 --> Unclosed '{' on line 15
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:18:09 --> syntax error, unexpected token "else"
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:18:39 --> Undefined variable $rules
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 384)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:22:52 --> Unclosed '{' on line 15
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:23:05 --> Unclosed '{' on line 15
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('visiteur/connex...')
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('visiteur/connex...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 07:33:45 --> Undefined variable $messages
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(376): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 376)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->connexion_administrateur()
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#6 {main}
+CRITICAL - 2023-01-05 08:35:23 --> Undefined variable $txtMdp
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Views\visiteur\s_enregistrer.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 19)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(214): include('C:\\Users\\BTS SI...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('visiteur/s_enre...', Array, true)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(306): view('visiteur/s_enre...', Array)
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->s_enregistrer()
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#10 {main}
+CRITICAL - 2023-01-05 09:29:49 --> Undefined variable $txtEmail
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Views\visiteur\se_connecter.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Users\\BTS SI...', 17)
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(214): include('C:\\Users\\BTS SI...')
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('visiteur/se_con...', Array, true)
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(364): view('visiteur/se_con...', Array)
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->se_connecter()
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#10 {main}
+CRITICAL - 2023-01-05 09:46:17 --> syntax error, unexpected token "=", expecting ")"
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('visiteur/se_con...', Array, true)
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(364): view('visiteur/se_con...', Array)
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->se_connecter()
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#8 {main}
+CRITICAL - 2023-01-05 09:57:10 --> syntax error, unexpected token "=", expecting "]"
+#0 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Common.php(1097): CodeIgniter\View\View->render('visiteur/se_con...', Array, true)
+#2 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\app\Controllers\Visiteur.php(364): view('visiteur/se_con...', Array)
+#3 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(824): App\Controllers\Visiteur->se_connecter()
+#4 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+#5 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\BTS SIO\iCloudDrive\BTS Sio\Cours Web\ChopesGames-main\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\BTS SI...')
+#8 {main}
